@@ -1,0 +1,137 @@
+/*****BODY*****/
+
+
+body {
+	background-color: #E8E8E8;
+	width: 1240px;
+}
+#vision-board {
+	width: 1200px;
+	height: 850px;
+	background-image: url("../img/background.png");	
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	margin: 50px 80px;
+}
+.small-block , .large-block {
+	float: left;
+	width: 400px;
+	box-sizing: border-box;
+	clear: none;
+}
+/***** BLOCKS*****/
+
+
+.small-block {
+	height: 210px;
+}
+
+.large-block {
+	height: 430px;
+}
+.grow {
+	text-align: left;
+	font-family: 'Montserrat';
+	padding: 30px;
+}
+.grow h1 {
+	font-size: 20px;
+}
+.grow strong {
+	font-size: 38px;
+	text-transform: capitalize;
+}
+.flower {
+	text-align: center;
+}
+.programs {
+	text-align: center;
+	font-family: 'Montserrat';
+	font-size: 20px;
+	padding: 20px;
+}
+.freelance {
+	text-align: left;
+	font-family: 'Montserrat';
+	padding: 60px 30px 40px;
+}
+.freelance h1 {
+	font-size: 20px;
+}
+.freelance p {
+	font-size: 20px;
+}
+.freelance strong {
+	font-size: 38px;
+	text-transform:capitalize;
+}
+.eye {
+	text-align: center;
+}
+.travel {
+	text-align: right;
+	font-family: 'Montserrat';
+	padding: 60px 30px 40px;
+}
+.travel h1 {
+	font-size: 20px;
+}
+.travel p {
+	font-size: 20px;
+}
+.travel strong {
+	font-size: 38px;
+	text-transform: capitalize;
+}
+.relax {
+	text-align: center;
+	font-family: 'Montserrat';
+	font-size: 20px;
+	padding-top: 40px;
+}
+.dog {
+	text-align: center;
+	padding-top: 40px;
+}
+.mind {
+	text-align: right;
+	font-family: 'Montserrat';
+	padding: 30px;
+}
+.mind h1 {
+	font-size: 20px;
+}
+.mind p {
+	font-size: 20px;
+}
+.mind strong {
+	font-size: 38px;
+	text-transform: capitalize;
+}
+
+.grow span, .freelance span, .travel span, .mind span {
+	background: #FFF44F;
+}
+/*****BKGRD COLORS*****/
+.light-bg {
+	background: #FFFFFF;
+}
+
+.dark-bg {
+	background: #3B3B3B;
+}
+
+/*****TITLE BLOCK*****/
+
+.title-block strong{
+	font-family: 'Permanent Marker';
+	font-size: 30px;
+	color: white;
+}
+.title-block {
+	font-family: 'Montserrat';
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+	padding: 55px 30px;
+}
